@@ -1,0 +1,44 @@
+# ============================================
+# USUARIOS POR DEFECTO - Hospital San Rafael
+# ============================================
+# Estos usuarios se crean automáticamente
+# al iniciar la aplicación por primera vez.
+# Las contraseñas están encriptadas con SHA-256
+# ============================================
+
+# Usuario Administrador
+Username: admin
+Password: admin123
+Email: admin@hospital.com
+Rol: Administrador
+Nombre: Administrador del Sistema
+
+# Usuario Doctor
+Username: doctor1
+Password: doctor123
+Email: carlos.mendoza@hospital.com
+Rol: Doctor
+Nombre: Carlos Mendoza
+ID Doctor: D001
+Especialidad: Medicina Interna
+
+# Usuario Estudiante
+Username: estudiante1
+Password: estudiante123
+Email: juan.perez@estudiante.com
+Rol: Estudiante
+Nombre: Juan Pérez
+ID Estudiante: E001
+Carrera: Medicina
+Semestre: 5to
+Turno: Mañana
+
+# ============================================
+# INSTRUCCIONES:
+# 1. Ejecutar la aplicación
+# 2. Ingresar con cualquiera de las credenciales
+# 3. El sistema creará automáticamente los
+#    usuarios en la primera ejecución
+# 4. Las contraseñas están encriptadas
+#    automáticamente
+# ============================================
