@@ -158,9 +158,9 @@ Para reportar errores o sugerencias, revisa la documentación en:
 - `GUIA_USO.md` - Manual de usuario completo
 
 ##  Autor
-Daniel Felipe Rodriguez Osorio
-Daniel Ramiro Galeano Tellez
-Andres Rojas Borja
+Daniel Felipe Rodriguez Osorio,
+Daniel Ramiro Galeano Tellez,
+Andres Rojas Borja,
 Juan Sebastian Rodriguez Daza
 Desarrollado para el **Hospital San Rafael**  
 Versión: 1.0.0  
